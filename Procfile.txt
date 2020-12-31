@@ -1,1 +1,0 @@
-web: python yahoo_news_auto_post.py
